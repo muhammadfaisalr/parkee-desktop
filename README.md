@@ -10,5 +10,3 @@ How to Run the App:
 6. In the "Kendaraan Keluar - Payment" section, record the check-in time, vehicle type, duration, base price, and total bill.
 7. Select a payment method from the "Metode Pembayaran" combo box.
 8. Click the "Proses Bayar" button to process the transaction or the "Batal" button to cancel the transaction."
-
-The grammar in your text appears to be correct. I made some minor changes to improve clarity and readability.
